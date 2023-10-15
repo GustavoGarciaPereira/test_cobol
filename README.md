@@ -1,2 +1,2 @@
 # test_cobol
-tentando entender esse linguagem
+tentando entender essa linguagem
